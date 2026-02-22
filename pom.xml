@@ -11,7 +11,7 @@
   <artifactId>json-api</artifactId>
   <version>${revision}-${changelist}</version>
   <packaging>hpi</packaging>
-  <name>JSON Api Plugin</name>
+  <name>JSON API Plugin</name>
   <url>https://github.com/jenkinsci/${project.artifactId}-plugin</url>
   <licenses>
     <license>
